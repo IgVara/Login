@@ -13,6 +13,7 @@
 		7D3CC007282F227D0043D3ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D3CC005282F227D0043D3ED /* Main.storyboard */; };
 		7D3CC009282F22800043D3ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D3CC008282F22800043D3ED /* Assets.xcassets */; };
 		7D3CC00C282F22800043D3ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D3CC00A282F22800043D3ED /* LaunchScreen.storyboard */; };
+		7D3CC014282F29FD0043D3ED /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3CC013282F29FD0043D3ED /* LogInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7D3CC008282F22800043D3ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D3CC00B282F22800043D3ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D3CC00D282F22800043D3ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D3CC013282F29FD0043D3ED /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7D3CBFFF282F227D0043D3ED /* AppDelegate.swift */,
 				7D3CC001282F227D0043D3ED /* SceneDelegate.swift */,
 				7D3CC003282F227D0043D3ED /* ViewController.swift */,
+				7D3CC013282F29FD0043D3ED /* LogInViewController.swift */,
 				7D3CC005282F227D0043D3ED /* Main.storyboard */,
 				7D3CC008282F22800043D3ED /* Assets.xcassets */,
 				7D3CC00A282F22800043D3ED /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D3CC014282F29FD0043D3ED /* LogInViewController.swift in Sources */,
 				7D3CC004282F227D0043D3ED /* ViewController.swift in Sources */,
 				7D3CC000282F227D0043D3ED /* AppDelegate.swift in Sources */,
 				7D3CC002282F227D0043D3ED /* SceneDelegate.swift in Sources */,
